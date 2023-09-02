@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "target": "ESNext", // Especifica para qual tipo de JavaScript o TypeScript vai compilar.
+    "strict": true // Entre outras funções não permite "any" a não ser que seja explicitamente dito.
+  }
+}
