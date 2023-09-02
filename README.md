@@ -6,6 +6,6 @@ O VS Code já vem com o TypeScript instalado, por isso a intelisense para desenv
 
 Obs: por sinal podemos colocar em um arquivo JavaScript mesmo um '//ts-check', e por já rodar TypeScript por debaixo dos panos, o vscode consegue indicar alguns possíveis erros, porém quando criamos funções essa checagem não funciona para verificar possíveis erros dentro do corpo dela.
 
-npm install typescript -g (para instalar o TypeScript de maneira global na máquina)
-tsc --init (cria um arquivo inicial de configuração tsconfig.json)
-tsc --watch (entra em modo de compilação, já compilando para JavaScript qualquer alteração que for escrita)
+- npm install typescript -g (para instalar o TypeScript de maneira global na máquina)
+- tsc --init (cria um arquivo inicial de configuração tsconfig.json)
+- tsc --watch (entra em modo de compilação, já compilando para JavaScript qualquer alteração que for escrita)
